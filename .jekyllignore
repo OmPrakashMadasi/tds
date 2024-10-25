@@ -1,0 +1,10 @@
+# Jekyll ignore files
+.sass-cache/
+.jekyll-cache/
+_site/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+node_modules/
+vendor/
